@@ -1,7 +1,6 @@
 # UMN Gotcha
 
-![Uploading image.png…]()
-
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/29a72292-9819-4dfa-9fe2-72b2e6ccc83f" />
 
 ## Kelompok 1 Tugas UTS Pengenalan Teknologi Internet (PTI) Lacture
 
