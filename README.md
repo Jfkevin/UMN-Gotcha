@@ -1,7 +1,9 @@
 # UMN Gotcha
 
-## Kelompok 1 Tugas UTS Pengenalan Teknologi Internet (PTI) Lacture
+![Uploading image.png…]()
 
+
+## Kelompok 1 Tugas UTS Pengenalan Teknologi Internet (PTI) Lacture
 
 ## Anggota Kelompok:
 
