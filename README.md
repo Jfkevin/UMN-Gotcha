@@ -8,6 +8,8 @@ Tampilan antarmuka utama dan gameplay:
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/29a72292-9819-4dfa-9fe2-72b2e6ccc83f" />
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7d6a3f0b-d83c-4e23-96d4-df0ccd1d725a" />
+
 ---
 
 ## 🎥 Link Video Presentasi Demo
